@@ -97,6 +97,9 @@ background: #F1F2F5;
 .justify-content-space {
     justify-content: space-between;
 }
+.flex-direction-col{
+    flex-direction: column;
+}
 
 .f-events {
     color: #2C49FE;
@@ -532,6 +535,9 @@ top: 8px;
    }
    .sm-d-none{
     display: none;
+   }
+   .flex-direction-row{
+    flex-direction: row;
    }
 }
 @media (min-width:768px) {
